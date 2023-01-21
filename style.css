@@ -1,0 +1,12 @@
+#card {
+  background-color: rgb(138, 155, 216);
+  border: 5px solid black;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px black;
+
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
+}
