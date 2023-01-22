@@ -10,3 +10,10 @@
   width: 50%;
   height: 50%;
 }
+
+.input01 {
+  position: absolute;
+  left: 0%;
+  width: 50%;
+  height: 10%;
+}
