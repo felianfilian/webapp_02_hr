@@ -12,8 +12,31 @@
 }
 
 .input01 {
+  border-radius: 50px;
+
   position: absolute;
-  left: 0%;
+  left: 40%;
   width: 50%;
   height: 10%;
+}
+
+.input02 {
+  border-radius: 50px;
+
+  position: absolute;
+  left: 10%;
+  width: 80%;
+  height: 30%;
+}
+
+#name {
+  top: 10%;
+}
+
+#mail {
+  top: 25%;
+}
+
+#comment {
+  top: 40%;
 }
