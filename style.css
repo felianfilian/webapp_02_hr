@@ -13,6 +13,8 @@
 
 .input01 {
   border-radius: 50px;
+  font-size: 1.8vw;
+  padding-left: 10px;
 
   position: absolute;
   left: 40%;
@@ -21,7 +23,9 @@
 }
 
 .input02 {
-  border-radius: 50px;
+  border-radius: 20px;
+  font-size: 1.8vw;
+  padding-left: 10px;
 
   position: absolute;
   left: 10%;
@@ -39,4 +43,20 @@
 
 #comment {
   top: 40%;
+}
+
+.label01 {
+  position: absolute;
+  left: 43%;
+  width: 50%;
+  height: 5%;
+  font-size: 1.6vw;
+}
+
+#lbl_name {
+  top: 12%;
+}
+
+#lbl_mail {
+  top: 27%;
 }
